@@ -3,6 +3,16 @@ layout: default
 ---
 
 <div class="home">
-  {% markdown profile.md %}
-  {% markdown publications.md %}
+  <h1>Shinichiro Takizawa's Homepage</h1>
+
+  <!-- {% markdown profile.md %} -->
+  <!-- {% markdown publications.md %} -->
+  {% capture profile-include %}
+  {% include profile.md %}
+  {% endcapture %}
+  {{ profile-include | markdownify }}
+  {% capture publications-include %}
+  {% include publications.md %}
+  {% endcapture %}
+  {{ publications-include | markdownify }}
 </div>

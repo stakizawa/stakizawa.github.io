@@ -1,5 +1,7 @@
 # The following code is copied from 
 #   http://webmasters.stackexchange.com/questions/64812/how-to-include-the-contents-of-a-markdown-page-into-a-post-with-jekyll
+#
+# However, this can not be used on the GitHub Pages for a security reason.
 
 module Jekyll
   class MarkdownTag < Liquid::Tag

@@ -1,3 +1,4 @@
+
 ## Publications
 
 ### Conference Paper
@@ -13,11 +14,13 @@
 - 町田悠哉, 滝澤真一朗, 松岡聡 and 中田秀基. レプリカ管理システムを利用したデータインテンシブアプリケーション向け スケジューリングシステム. In ハイパフォーマンスコンピューティングと計算科学シンポジウム論文集 (HPCS2006), pages 9-16, January 2006.
 - Shinichiro Takizawa, Yasuhito Takamiya, Hidemoto Nakada and Satoshi Matsuoka. A Scalable Multi-Replication Framework for Data Grid. In Proceedings of the 2005 International Symposium on Applications and the Internet (SAINT 2005 Workshops), pages 310-315, January 2005.
 
+
 ### Journal Paper
 - 合田憲人, 東田学, 坂根栄作, 天野浩文, 小林克志, 棟朝雅晴, 江川隆輔, 建部修見, 鴨志田良和, 滝澤真一朗, 永井亨, 岩下武史, 石川裕. 高性能分散計算環境のための認証基盤の設計. 情報処理学会論文誌コンピューティングシステム（ACS）, 2012, Vol 5, No 5, pages 90 - 102.
 - 滝澤真一朗, 遠藤敏夫 and 松岡聡. 光サーキットネットワークの補助的利用によるHPCアプリケーション性能向上. 情報処理学会 コンピューティングシステム (ACS), 2009, vol 2, pages 110-121.
 - 滝澤真一朗, 遠藤敏夫 and 松岡聡. 次世代光インターコネクトでのMPI 通信に関する研究. 日本ソフトウェア科学会 コンピュータソフトウェア, 2009, vol 26, pages 5-19.
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, and Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007.
+
 
 ### Presentation
 - 滝澤真一朗. 並列データ処理フレームワークを用いた分子科学計算の並列化. 2015年度 High Performance Computing Chemistry (HPCC) ワークショップ, Dec. 2015.
