@@ -1,0 +1,5 @@
+# Site settings
+title: "Shinichiro Takizawa's homepage"
+
+# Build settings
+markdown: kramdown
