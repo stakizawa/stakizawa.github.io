@@ -2,6 +2,7 @@
 ## Publications
 
 ### Conference Paper
+- 鈴木惣一朗, 伊東聰, 池田奈生, Gerofi Balazs, 三吉郁夫, 丸山直也, 滝澤真一朗, 村瀬洋介, 石川裕, 宮野悟. ヒトゲノム解析プログラムGenomon-fusionの大規模スーパーコンピュータ向け最適化と性能モデル化. 2016年ハイパフォーマンスコンピューティングと計算科学シンポジウム(HPCS2016), Jun. 2016.
 - Motohiko Matsuda, Shinichiro Takizawa, Naoya Maruyama. Evaluation of Asynchronous MPI Communication in Map-Reduce System on the K Computer. Proceedings of the 21st European MPI Users' Group Meeting, Sep. 2014.
 - 滝澤真一朗, 松田元彦, 丸山直也. MapReduceによる計算科学アプリケーションのワークフロー実行支援. ハイパフォーマンスコンピューティングと計算科学シンポジウム（HPCS2014), Jan. 2014.
 - Motohiko Matsuda, Naoya Maruyama and Shinichiro Takizawa. K MapReduce: A Scalable Tool for Data-Processing and Search/Ensemble Applications on Large-Scale Super-computers, IEEE Cluster 2013 Conference, Sep. 2013.
@@ -23,6 +24,7 @@
 
 
 ### Presentation
+- Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama. A Locality-aware Task Scheduling of Message Passing and MapReduce Hybrid Models. The 25th International Symposium on High Performance Parallel and Distributed Computing. Poster. Jun. 2016.
 - 滝澤真一朗. 並列データ処理フレームワークを用いた分子科学計算の並列化. 2015年度 High Performance Computing Chemistry (HPCC) ワークショップ, Dec. 2015.
 - 滝澤真一朗, 松田元彦, 丸山直也. 局所性を考慮した大規模並列タスクのワークフロー実行に向けて. 第151回 ハイパフォーマンスコンピューティング研究発表会, Sep. 2015.
 - Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama. Towards Locality-aware Large-scale Data Processing. Annual Meeting on Advanced Computing System and Infrastructure (ACSI) 2015 Poster, Jan. 2015.
