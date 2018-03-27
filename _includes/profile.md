@@ -10,6 +10,7 @@
 - Contact
   - shinichiro.takizawa __at__ aist.go.jp (replace __at__ by @)
 - Social Account
+  - [LinkedIn](https://www.linkedin.com/in/shinichiro-takizawa-57374011b/)
   - [GitHub](https://github.com/stakizawa)
 
 

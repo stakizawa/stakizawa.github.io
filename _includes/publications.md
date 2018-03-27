@@ -1,6 +1,8 @@
 # [](#publications)Publications
 
 ## Conference Paper
+- Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama, Yoshifumi Nakamura. A Scalable Multi-Granular Data Model for Data Parallel Workflows. Proceedings of HPC Asia 2018, Jan. 2018.
+- 鈴木惣一朗, 伊東聰, 池田奈生, Gerofi Balazs, 三吉郁夫, 丸山直也, 滝澤真一朗, 村瀬洋介, 石川裕, 宮野悟. ヒトゲノム解析プログラムGenomon-fusionの大規模スーパーコンピュータ向け最適化と性能モデル化. 2016年ハイパフォーマンスコンピューティングと計算科学シンポジウム(HPCS2016), 2016.
 - Motohiko Matsuda, Shinichiro Takizawa, Naoya Maruyama. Evaluation of Asynchronous MPI Communication in Map-Reduce System on the K Computer. Proceedings of the 21st European MPI Users' Group Meeting, Sep. 2014.
 - 滝澤真一朗, 松田元彦, 丸山直也. MapReduceによる計算科学アプリケーションのワークフロー実行支援. ハイパフォーマンスコンピューティングと計算科学シンポジウム（HPCS2014), Jan. 2014.
 - Motohiko Matsuda, Naoya Maruyama and Shinichiro Takizawa. K MapReduce: A Scalable Tool for Data-Processing and Search/Ensemble Applications on Large-Scale Super-computers, IEEE Cluster 2013 Conference, Sep. 2013.
