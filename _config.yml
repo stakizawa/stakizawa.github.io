@@ -3,3 +3,5 @@ title: "Shinichiro Takizawa's homepage"
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
