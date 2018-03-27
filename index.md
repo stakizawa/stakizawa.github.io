@@ -5,10 +5,10 @@
   - Shinichiro Takizawa
   - 滝澤 真一朗
 - Affiliation
-  - Advanced Institute for Computational Science, RIKEN, Japan
-  - 理化学研究所 計算科学研究機構
+  - AIST-TokyoTech Real World Big-Data Computation Open Innovation Laboratory (RWBC-OIL), AIST, Japan
+  - 産業技術総合研究所 産総研・東工大実社会ビッグデータ活用オープンイノベーションラボラトリ (RWBC-OIL)
 - Contact
-  - shinichiro.takizawa __at__ riken.jp (replace __at__ by @)
+  - shinichiro.takizawa __at__ aist.go.jp (replace __at__ by @)
 
 
 ## Research Interest
@@ -26,7 +26,9 @@
 ## Research Experience
 |Year| |
 |:-|:-|
-|Apr 2013 - Present|Research Scientist, RIKEN AICS, Japan|
+|May 2017 - Present |Researcher, RWBC-OIL, AIST, Japan|
+|May 2017 - Mar 2018|Visiting Researcher, RIKEN AICS, Japan|
+|Apr 2013 - Apr 2017|Research Scientist, RIKEN AICS, Japan|
 |Apr 2010 - Mar 2013|Research Associate, Global Scientific Information and Computing Center, Tokyo Institute of Technology, Japan|
 |Apr 2009 - Mar 2010|Postdoctoral Researcher, Global Scientific Information and Computing Center, Tokyo Institute of Technology, Japan|
 |Apr 2006 - Mar 2009|Research Assistant, Dept. of Mathematical and Computing Science, Tokyo Institute of Technology|
