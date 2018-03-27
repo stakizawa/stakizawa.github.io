@@ -12,9 +12,9 @@
 
 
 ## Research Interest
-- Parallel and distributed computing, Grid computing
+- Parallel and distributed computing, Grid computing and Cloud computing
 - Data processing
-- System management and operation
+- System management and datacenter operation
 
 ## Education
 |Year| |
