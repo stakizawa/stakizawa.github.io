@@ -1,6 +1,6 @@
 # [](#publications)Publications
 
-## Conference Paper
+## Conference/Workshop Paper (Reviewed)
 - Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama, Yoshifumi Nakamura. A Scalable Multi-Granular Data Model for Data Parallel Workflows. Proceedings of HPC Asia 2018, Jan. 2018.
 - 鈴木惣一朗, 伊東聰, 池田奈生, Gerofi Balazs, 三吉郁夫, 丸山直也, 滝澤真一朗, 村瀬洋介, 石川裕, 宮野悟. ヒトゲノム解析プログラムGenomon-fusionの大規模スーパーコンピュータ向け最適化と性能モデル化. 2016年ハイパフォーマンスコンピューティングと計算科学シンポジウム(HPCS2016), 2016.
 - Motohiko Matsuda, Shinichiro Takizawa, Naoya Maruyama. Evaluation of Asynchronous MPI Communication in Map-Reduce System on the K Computer. Proceedings of the 21st European MPI Users' Group Meeting, Sep. 2014.
@@ -22,9 +22,15 @@
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, and Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007.
 
 ## Presentation
+- Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Satoshi Matsuoka. Pushing the Limits for 2D Convolution Computation On CUDA-enabled GPUs. 第163回ハイパフォーマンスコンピューティング研究会, Mar. 2018.
+- 滝澤真一朗, 佐藤仁, 高野了成, 谷村勇輔, 小川宏高. AIクラウドでの深層学習ワークロード解析を通じたジョブスケジューリング改善に向けた考察. 第163回ハイパフォーマンスコンピューティング研究会, Mar. 2018.
+- 滝澤真一朗, 高野了成, 松岡聡. 大規模データセンター運用最適化フレームワーク構築に向けて. 第29回コンピュータシステム・シンポジウム (ComSys2017）, ポスター, 2017.
+- 小川宏高, 松岡聡, 佐藤仁, 高野了成, 滝澤真一朗, 谷村勇輔, 三浦信一, 関口智嗣. AI橋渡しクラウド — AI Bridging Cloud Infrastructure (ABCI) — の構想. 第160回ハイパフォーマンスコンピューティング研究会. Jul. 2017.
+- 滝澤真一朗, 松田元彦, 丸山直也, 中村宜文. 処理粒度に応じたデータ分割・配置を行う多次元データ処理フレームワーク. 第158回ハイパフォーマンスコンピューティング研究発表会, Mar. 2017.
+- Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama. A Locality-aware Task Scheduling of Message Passing and MapReduce Hybrid Models. The 25th International Symposium on High Performance Parallel and Distributed Computing, Poster, Jun. 2016.
 - 滝澤真一朗. 並列データ処理フレームワークを用いた分子科学計算の並列化. 2015年度 High Performance Computing Chemistry (HPCC) ワークショップ, Dec. 2015.
 - 滝澤真一朗, 松田元彦, 丸山直也. 局所性を考慮した大規模並列タスクのワークフロー実行に向けて. 第151回 ハイパフォーマンスコンピューティング研究発表会, Sep. 2015.
-- Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama. Towards Locality-aware Large-scale Data Processing. Annual Meeting on Advanced Computing System and Infrastructure (ACSI) 2015 Poster, Jan. 2015.
+- Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama. Towards Locality-aware Large-scale Data Processing. Annual Meeting on Advanced Computing System and Infrastructure (ACSI) 2015, Poster, Jan. 2015.
 - 滝澤真一朗, 松田元彦, 丸山直也. 並列ファイルシステムへのアクセス局所性を考慮したMapReduce負荷分散実現に向けて. 第146回 ハイパフォーマンスコンピューティング研究発表会, Oct. 2014.
 - 小村幸浩, 鈴木惣一朗, 三上和徳, 滝澤真一朗, 松田元彦, 丸山直也. Fiberミニアプリの性能評価. 第145回 ハイパフォーマンスコンピューティング研究発表会, Jul. 2014.
 - 松田元彦, 丸山直也, 滝澤真一朗. Xeon Phi（Knights Corner）の性能特性とステンシル計算の評価. 第143回 ハイパフォーマンスコンピューティング研究発表会, Mar. 2014.
@@ -33,19 +39,19 @@
 - 滝澤真一朗. 「HPCI先端ソフトウェア運用基盤利用マニュアル」に基づいた利用方法. 第二回HPCIシステム基盤詳細設計中間報告＆意見交換会, Feb. 2012.
 - 滝澤真一朗. RENKEI-PoPによる広域分散VMホスティングの構築. アカデミッククラウドシンポジウム2011@北海道大学, Aug. 2011.
 - 滝澤真一朗, 棟朝 雅晴, 宇野 篤也, 小林 泰三, 實本英之, 松岡聡, 石川 裕. 広域分散環境を提供するHPCI先端ソフトウェア運用基盤の設計. 第130回 ハイパフォーマンスコンピューティング研究発表会 2011年並列／分散／協調処理に関する 『鹿児島』サマー・ワークショップ（SWoPP鹿児島2011）, Jul. 2011.
-- Shinichiro Takizawa. A Large Data Transfer/Sharing Architecture between Supercomputers. Data Intensive Science Workshop Poster, Mar. 2011.
+- Shinichiro Takizawa. A Large Data Transfer/Sharing Architecture between Supercomputers. Data Intensive Science Workshop, Poster, Mar. 2011.
 - 滝澤真一朗. 先端ソフトウェア運用基盤. HPCIシステム基盤詳細設計中間報告＆意見交換会, Oct. 2011.
 - 滝澤真一朗, 松岡聡, 佐藤仁, 東田学, 友石正彦. PoP(Point of Presence)によるe-サイエンスリソース連携. 広帯域ネットワーク利用に関するワークショップ (ADVNET2010)予稿集, Sep. 2010.
 - 滝澤真一朗, 松岡聡, 佐藤仁, 東田学, 友石正彦, 實本英之. e-サイエンス基盤としての計算機センターPOP(Point-of-Presence) 連携. 並列/分散/協調処理に関するサマー・ワークショップ(SWoPP2010) 予稿集, Aug. 2010.
-- 滝澤真一朗 and 松岡聡. NAREGIグリッド本格運用に向けたサービス整合性監視システム. 先進的計算基盤システムシンポジウム (SACSIS) ポスター, 2010.
+- 滝澤真一朗 and 松岡聡. NAREGIグリッド本格運用に向けたサービス整合性監視システム. 先進的計算基盤システムシンポジウム (SACSIS), ポスター, 2010.
 - 東田学, 松岡聡, 友石正彦, 實本英之 and 滝澤真一朗. RENKEI (REsource liNKage for E-scIence) プロジェクトにおけるPOPの配備展開. 広帯域ネットワーク利用に関するワークショップ (ADVNET 2009), 2009.
 - 滝澤真一朗, 遠藤敏夫 and 松岡聡. 光ネットワークの補助的利用によるHPC性能向上. 情報処理学会研究報告2008-HPC-116 (SWoPP2008), 2008, pages 67-72.
 - 滝澤真一朗, 遠藤敏夫 and 松岡聡. 情報爆発時代の光インターコネクト上でのMPI通信アルゴリズム. 情報処理学会 70回全国大会論文集, 2008.
 - 滝澤真一朗, 遠藤敏夫 and 松岡聡. 次世代光インターコネクト上でのMPIアプリケーションの評価. 情報処理学会研究報告2007-HPC-111 (SWoPP2007), 2007, pages 183-188.
 - 滝澤真一朗, 遠藤敏夫 and 松岡聡. 次世代光インターコネクトでのMPI通信性能の評価. 日本ソフトウェア科学会 第24回大会論文集, 2007.
 - 町田悠哉, 滝澤真一朗, 中田秀基 and 松岡聡. レプリカ管理システムを利用したデータインテンシブアプリケーション向け スケジューリングシステム. 情報処理学会研究報告2006-HPC-105 (HOKKE2006), 2006, pages 229-233.
-- 滝澤真一朗, 松岡聡 and 中田秀基. 光ネットワーク環境におけるMPI集団通信. 先進的計算基盤システムシンポジウム (SACSIS) ポスター, 2006.
+- 滝澤真一朗, 松岡聡 and 中田秀基. 光ネットワーク環境におけるMPI集団通信. 先進的計算基盤システムシンポジウム (SACSIS), ポスター, 2006.
 - 滝澤真一朗, 松岡聡 and 中田秀基. 光ネットワーク環境におけるMPI集団通信. 情報処理学会研究報告2006-HPC-105 (HOKKE2006), 2006, pages 193-198.
 - 町田悠哉, 滝澤真一朗, 松岡聡 and 中田秀基. レプリカ管理システムを利用したデータインテンシブアプリケーション向け スケジューリングシステム. 電子情報通信学会研究報告2005-CPSY (SWoPP2005), 2005.
 - 滝澤真一朗, 高宮安仁, 中田秀基 and 松岡聡. グリッド上のスケーラブルな並列レプリケーションフレームワーク. 情報処理学会研究報告2004-HPC-99 (SWoPP2004), 2004, pages 247-252.
-- 滝澤真一朗, 高宮安仁, 中田秀基 and 松岡聡. グリッド上のスケーラブルな並列レプリケーションフレームワーク. 先進的計算基盤システムシンポジウム (SACSIS) ポスター, 2004.
+- 滝澤真一朗, 高宮安仁, 中田秀基 and 松岡聡. グリッド上のスケーラブルな並列レプリケーションフレームワーク. 先進的計算基盤システムシンポジウム (SACSIS), ポスター, 2004.
