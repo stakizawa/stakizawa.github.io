@@ -5,6 +5,7 @@
 1. install jekyll
 
        $ gem install jekyll bundler
+       $ bundle install
 
 2. install the necessary libraries for building web page
 
