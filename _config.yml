@@ -4,4 +4,4 @@ description: >- # this means to ignore newlines until "theme:"
 theme: jekyll-theme-cayman
 markdown: kramdown
 #show_downloads: true
-#google_analytics:
+google_analytics: UA-281890-3
