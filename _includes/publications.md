@@ -1,6 +1,7 @@
 # [](#publications)Publications
 
 ## Conference/Workshop Paper (Reviewed)
+- Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. Efficient Algorithms for the Summed Area Tables Primitive on GPUs. Proceedings of IEEE Cluster 2018, Sep. 2018.
 - Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama, Yoshifumi Nakamura. A Scalable Multi-Granular Data Model for Data Parallel Workflows. Proceedings of HPC Asia 2018, Jan. 2018.
 - 鈴木惣一朗, 伊東聰, 池田奈生, Gerofi Balazs, 三吉郁夫, 丸山直也, 滝澤真一朗, 村瀬洋介, 石川裕, 宮野悟. ヒトゲノム解析プログラムGenomon-fusionの大規模スーパーコンピュータ向け最適化と性能モデル化. 2016年ハイパフォーマンスコンピューティングと計算科学シンポジウム(HPCS2016), 2016.
 - Motohiko Matsuda, Shinichiro Takizawa, Naoya Maruyama. Evaluation of Asynchronous MPI Communication in Map-Reduce System on the K Computer. Proceedings of the 21st European MPI Users' Group Meeting, Sep. 2014.
@@ -22,6 +23,9 @@
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, and Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007.
 
 ## Presentation
+- 滝澤真一朗, 高野了成. 正確な実行時間指定を促すジョブスケジューリング. 第166回ハイパフォーマンスコンピューティング研究会. Sep. 2018.
+- 佐藤仁, 溝手竜, 滝澤真一朗. AI橋渡しクラウドABCIの性能評価. 第166回ハイパフォーマンスコンピューティング研究会. Sep. 2018.
+- 小川宏高, 松岡聡, 佐藤仁, 高野了成, 滝澤真一朗, 谷村勇輔, 三浦信一, 関口 智嗣. 世界最大規模のオープンAIインフラストラクチャ AI橋渡しクラウド（ABCI）の概要. 第165回ハイパフォーマンスコンピューティング研究会, Jul. 2018.
 - Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Satoshi Matsuoka. Pushing the Limits for 2D Convolution Computation On CUDA-enabled GPUs. 第163回ハイパフォーマンスコンピューティング研究会, Mar. 2018.
 - 滝澤真一朗, 佐藤仁, 高野了成, 谷村勇輔, 小川宏高. AIクラウドでの深層学習ワークロード解析を通じたジョブスケジューリング改善に向けた考察. 第163回ハイパフォーマンスコンピューティング研究会, Mar. 2018.
 - 滝澤真一朗, 高野了成, 松岡聡. 大規模データセンター運用最適化フレームワーク構築に向けて. 第29回コンピュータシステム・シンポジウム (ComSys2017）, ポスター, 2017.

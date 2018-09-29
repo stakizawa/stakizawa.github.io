@@ -12,6 +12,7 @@
 - Social Account
   - [LinkedIn](https://www.linkedin.com/in/shinichiro-takizawa-57374011b/)
   - [GitHub](https://github.com/stakizawa)
+  - [Google Scholar Citations](https://scholar.google.com/citations?user=rwJkcZkAAAAJ)
 
 
 ## [](#interest)Research Interest
@@ -39,3 +40,13 @@
 |Apr 2010 - Mar 2013|Research Associate, Global Scientific Information and Computing Center, Tokyo Institute of Technology, Japan|
 |Apr 2009 - Mar 2010|Postdoctoral Researcher, Global Scientific Information and Computing Center, Tokyo Institute of Technology, Japan|
 |Apr 2006 - Mar 2009|Research Assistant, Dept. of Mathematical and Computing Science, Tokyo Institute of Technology|
+
+
+## [](#activities)Academic Activities
+- 情報処理学会 第30回コンピュータシステム・シンポジウム (ComSys2018）, プログラム委員
+- The 2nd International Industry/University Workshop on Data-center Automation, Analytics, and Control (DAAC2018), Technical Program Committee
+- 情報処理学会 第29回コンピュータシステム・シンポジウム (ComSys2017）, プログラム委員
+- IEEE Cluster 2017, Technical Program Committee
+- The 12th International Workshop on OpenMP (IWOMP2016), Local Chair
+- SWoPP組織委員（2015-2018）
+- 情報処理学会 OS研究会運営委員（2014-2017）
