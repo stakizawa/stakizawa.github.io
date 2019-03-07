@@ -1,17 +1,17 @@
 # [](#publications)Publications
 
 ## Conference/Workshop Paper (Reviewed)
-- Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. Efficient Algorithms for the Summed Area Tables Primitive on GPUs. Proceedings of IEEE Cluster 2018, Sep. 2018.
-- Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama, Yoshifumi Nakamura. A Scalable Multi-Granular Data Model for Data Parallel Workflows. Proceedings of HPC Asia 2018, Jan. 2018.
-- 鈴木惣一朗, 伊東聰, 池田奈生, Gerofi Balazs, 三吉郁夫, 丸山直也, 滝澤真一朗, 村瀬洋介, 石川裕, 宮野悟. ヒトゲノム解析プログラムGenomon-fusionの大規模スーパーコンピュータ向け最適化と性能モデル化. 2016年ハイパフォーマンスコンピューティングと計算科学シンポジウム(HPCS2016), 2016.
-- Motohiko Matsuda, Shinichiro Takizawa, Naoya Maruyama. Evaluation of Asynchronous MPI Communication in Map-Reduce System on the K Computer. Proceedings of the 21st European MPI Users' Group Meeting, Sep. 2014.
-- 滝澤真一朗, 松田元彦, 丸山直也. MapReduceによる計算科学アプリケーションのワークフロー実行支援. ハイパフォーマンスコンピューティングと計算科学シンポジウム（HPCS2014), Jan. 2014.
-- Motohiko Matsuda, Naoya Maruyama, Shinichiro Takizawa. K MapReduce: A Scalable Tool for Data-Processing and Search/Ensemble Applications on Large-Scale Super-computers, IEEE Cluster 2013 Conference, Sep. 2013.
-- Shinichiro Takizawa, Satoshi Matsuoka, Masanaru Munetomo, Taizo Kobayashi, Hideyuki Jitsumoto. A Virtual Machine Hosting System on e-Scinece Cyberinfrastructure, The 1st International Workshop on Cloud Computing and Applications (IWCCA 2012), Dec. 2012.
-- 合田憲人, 東田学, 坂根栄作, 天野浩文, 小林克志, 棟朝雅晴, 江川隆輔, 建部修見, 鴨志田良和, 滝澤真一朗, 永井亨, 岩下武史, 石川裕. 高性能分散計算環境のための認証基盤の設計. 先進的計算基盤システムシンポジウム論文集, May. 2012.
-- 滝澤真一朗, 松岡聡, 友石正彦, 佐藤仁, 東田 学. Point-of-Presence連携によるe-サイエンス分散環境. インターネットカンファレンス2011, Oct. 2011.
+- Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. Efficient Algorithms for the Summed Area Tables Primitive on GPUs. Proceedings of IEEE Cluster 2018, pages 12, Sep. 2018.
+- Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama, Yoshifumi Nakamura. A Scalable Multi-Granular Data Model for Data Parallel Workflows. Proceedings of HPC Asia 2018, pages 10, Jan. 2018.
+- 鈴木惣一朗, 伊東聰, 池田奈生, Gerofi Balazs, 三吉郁夫, 丸山直也, 滝澤真一朗, 村瀬洋介, 石川裕, 宮野悟. ヒトゲノム解析プログラムGenomon-fusionの大規模スーパーコンピュータ向け最適化と性能モデル化. 2016年ハイパフォーマンスコンピューティングと計算科学シンポジウム(HPCS2016), pages 12, 2016.
+- Motohiko Matsuda, Shinichiro Takizawa, Naoya Maruyama. Evaluation of Asynchronous MPI Communication in Map-Reduce System on the K Computer. Proceedings of the 21st European MPI Users' Group Meeting, pages 6, Sep. 2014.
+- 滝澤真一朗, 松田元彦, 丸山直也. MapReduceによる計算科学アプリケーションのワークフロー実行支援. ハイパフォーマンスコンピューティングと計算科学シンポジウム（HPCS2014), pages 9, Jan. 2014.
+- Motohiko Matsuda, Naoya Maruyama, Shinichiro Takizawa. K MapReduce: A Scalable Tool for Data-Processing and Search/Ensemble Applications on Large-Scale Super-computers, IEEE Cluster 2013 Conference, pages 8, Sep. 2013.
+- Shinichiro Takizawa, Satoshi Matsuoka, Masanaru Munetomo, Taizo Kobayashi, Hideyuki Jitsumoto. A Virtual Machine Hosting System on e-Scinece Cyberinfrastructure, The 1st International Workshop on Cloud Computing and Applications (IWCCA 2012), pages 8, Dec. 2012.
+- 合田憲人, 東田学, 坂根栄作, 天野浩文, 小林克志, 棟朝雅晴, 江川隆輔, 建部修見, 鴨志田良和, 滝澤真一朗, 永井亨, 岩下武史, 石川裕. 高性能分散計算環境のための認証基盤の設計. 先進的計算基盤システムシンポジウム論文集, pages 13, May. 2012.
+- 滝澤真一朗, 松岡聡, 友石正彦, 佐藤仁, 東田 学. Point-of-Presence連携によるe-サイエンス分散環境. インターネットカンファレンス2011, pages 10, Oct. 2011.
 - 滝澤真一朗, 遠藤敏夫, 松岡聡. 光サーキットネットワークの補助的利用によるHPCアプリケーション性能向上. 2009年ハイパフォーマンスコンピューティングと計算科学シンポジウム (HPCS2009), 2009, pages 65-72.
-- Shinichiro Takizawa, Toshio Endo and Satoshi Matsuoka. Locality Aware MPI Communication on a Commodity Opto-Electronic Hybrid Network. In International Parallel & Distributed Processing Symposium (Workshop on Large-Scale Parallel Processing), April 2008.
+- Shinichiro Takizawa, Toshio Endo and Satoshi Matsuoka. Locality Aware MPI Communication on a Commodity Opto-Electronic Hybrid Network. In International Parallel & Distributed Processing Symposium (Workshop on Large-Scale Parallel Processing), pages 8, April 2008.
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Multi-Replication with Intelligent Staging in Data-Intensive Grid Applications. In The 7th IEEE/ACM International Conference on Grid Computing, pages 88-95, September 2006.
 - 町田悠哉, 滝澤真一朗, 松岡聡, 中田秀基. レプリカ管理システムを利用したデータインテンシブアプリケーション向け スケジューリングシステム. In ハイパフォーマンスコンピューティングと計算科学シンポジウム論文集 (HPCS2006), pages 9-16, January 2006.
 - Shinichiro Takizawa, Yasuhito Takamiya, Hidemoto Nakada, Satoshi Matsuoka. A Scalable Multi-Replication Framework for Data Grid. In Proceedings of the 2005 International Symposium on Applications and the Internet (SAINT 2005 Workshops), pages 310-315, January 2005.
