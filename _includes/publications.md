@@ -23,6 +23,8 @@
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- Shinichiro Takizawa. AI Bridging Cloud Infrastructure (ABCI) and its Communication Performance. 7th Annual MVAPICH User Group (MUG) Meeting. Aug. 2019.
+- 滝澤真一朗, 小川宏高, 高野了成. 大規模GPUクラスタにおける深層学習ワークロードの傾向把握. 第170回ハイパフォーマンスコンピューティング研究会. Jul. 2019.
 - 滝澤真一朗. ABCIのストレージサービスの現状と拡張計画. Gfarmワークショップ2019. Feb. 2019.
 - 滝澤真一朗, 高野了成. 正確な実行時間指定を促すジョブスケジューリング. 第166回ハイパフォーマンスコンピューティング研究会. Sep. 2018.
 - 佐藤仁, 溝手竜, 滝澤真一朗. AI橋渡しクラウドABCIの性能評価. 第166回ハイパフォーマンスコンピューティング研究会. Sep. 2018.

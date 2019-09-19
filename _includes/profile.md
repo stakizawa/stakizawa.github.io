@@ -5,8 +5,8 @@
   - Shinichiro Takizawa
   - 滝澤 真一朗
 - Affiliation
-  - AIST-TokyoTech Real World Big-Data Computation Open Innovation Laboratory (RWBC-OIL), AIST, Japan
-  - 産業技術総合研究所 産総研・東工大実社会ビッグデータ活用オープンイノベーションラボラトリ (RWBC-OIL)
+  - Artificial Intelligence Research Center, AIST, Japan
+  - 産業技術総合研究所 人工知能研究センター
 - Contact
   - shinichiro.takizawa __at__ aist.go.jp (replace __at__ by @)
 - Social Account
@@ -17,7 +17,7 @@
 
 ## [](#interest)Research Interest
 - Parallel and distributed computing, Grid computing and Cloud computing
-- Data processing
+- Data processing, Parallel filesystem
 - System management and datacenter operation
 
 
@@ -34,7 +34,8 @@
 
 |Year| |
 |:-|:-|
-|May 2017 - Present |Researcher, RWBC-OIL, AIST, Japan|
+|Jul 2019 - Present|Senior Research Scientist, RWBC-OIL, AIST, Japan|
+|May 2017 - Jun 2019|Researcher, RWBC-OIL, AIST, Japan|
 |May 2017 - Mar 2018|Visiting Researcher, RIKEN AICS, Japan|
 |Apr 2013 - Apr 2017|Research Scientist, RIKEN AICS, Japan|
 |Apr 2010 - Mar 2013|Research Associate, Global Scientific Information and Computing Center, Tokyo Institute of Technology, Japan|

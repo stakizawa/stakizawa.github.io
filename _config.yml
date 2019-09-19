@@ -1,6 +1,6 @@
 title: Shinichiro Takizawa's homepage
-description: >- # this means to ignore newlines until "theme:"
-  This is the homepage of Shinichiro Takizawa, a researcher of computer science.
+#description: >- # this means to ignore newlines until "theme:"
+#  This is the homepage of Shinichiro Takizawa, a researcher of computer science.
 theme: jekyll-theme-cayman
 markdown: kramdown
 #show_downloads: true
