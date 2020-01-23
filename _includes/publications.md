@@ -1,6 +1,9 @@
 # [](#publications)Publications
 
 ## Conference/Workshop Paper (Reviewed)
+- Shinichiro Takizawa, Ryousei Takano. Effect of an Incentive Implementation for Specifying Accurate Walltime in Job Scheduling. Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia2020), Jan. 2020.
+- Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. iFDK: a scalable framework for instant high-resolution image reconstruction. Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), Nov. 2019.
+- Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. A Versatile Software Systolic Execution Model for GPU Memory Bound Kernels. Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), Nov. 2019.
 - Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. Efficient Algorithms for the Summed Area Tables Primitive on GPUs. Proceedings of IEEE Cluster 2018, pages 12, Sep. 2018.
 - Shinichiro Takizawa, Motohiko Matsuda, Naoya Maruyama, Yoshifumi Nakamura. A Scalable Multi-Granular Data Model for Data Parallel Workflows. Proceedings of HPC Asia 2018, pages 10, Jan. 2018.
 - 鈴木惣一朗, 伊東聰, 池田奈生, Gerofi Balazs, 三吉郁夫, 丸山直也, 滝澤真一朗, 村瀬洋介, 石川裕, 宮野悟. ヒトゲノム解析プログラムGenomon-fusionの大規模スーパーコンピュータ向け最適化と性能モデル化. 2016年ハイパフォーマンスコンピューティングと計算科学シンポジウム(HPCS2016), pages 12, 2016.
@@ -23,6 +26,7 @@
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- 谷村勇輔, 滝澤真一朗, 小川宏高, 浜西貴宏. ABCIクラウドストレージサービスの構築と評価. 第172回ハイパフォーマンスコンピューティング研究会, Dec. 2019.
 - Shinichiro Takizawa. AI Bridging Cloud Infrastructure (ABCI) and its Communication Performance. 7th Annual MVAPICH User Group (MUG) Meeting. Aug. 2019.
 - 滝澤真一朗, 小川宏高, 高野了成. 大規模GPUクラスタにおける深層学習ワークロードの傾向把握. 第170回ハイパフォーマンスコンピューティング研究会. Jul. 2019.
 - 滝澤真一朗. ABCIのストレージサービスの現状と拡張計画. Gfarmワークショップ2019. Feb. 2019.
