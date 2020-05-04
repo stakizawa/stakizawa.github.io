@@ -30,11 +30,11 @@
 |B.S., 2004|Dept. of Mathematical and Computing Science, Tokyo Institute of Technology|
 
 
-## [](#experience)Research Experience
+## [](#experience)Work Experience
 
 |Year| |
 |:-|:-|
-|Jul 2019 - Present|Senior Research Scientist, RWBC-OIL, AIST, Japan|
+|Jul 2019 - Present|Senior Research Scientist, Artificial Intelligence Research Center, AIST, Japan|
 |May 2017 - Jun 2019|Researcher, RWBC-OIL, AIST, Japan|
 |May 2017 - Mar 2018|Visiting Researcher, RIKEN AICS, Japan|
 |Apr 2013 - Apr 2017|Research Scientist, RIKEN AICS, Japan|
