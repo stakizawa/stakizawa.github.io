@@ -26,7 +26,9 @@
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
-- 谷村勇輔, 滝澤真一朗, 小川宏高, 浜西貴宏. ABCIクラウドストレージサービスの構築と評価. 第172回ハイパフォーマンスコンピューティング研究会, Dec. 2019.
+- 中田秀基, 滝澤真一朗, 小川宏高. 大規模計算クラスタにおけるユーザ利便性向上. 第174回ハイパフォーマンスコンピューティング研究会. May. 2020.
+- 谷村勇輔, 滝澤真一朗, 小川宏高, 浜西貴宏. ABCIクラウドストレージサービスの構築と評価. 第172回ハイパフォーマンスコンピューティング研究会. Dec. 2019.
+- Shinichiro Takizawa. ABCI's Scheduling Design for Accommodating Various AI Jobs. 8th ADAC Workshop. Oct. 2019.
 - Shinichiro Takizawa. AI Bridging Cloud Infrastructure (ABCI) and its Communication Performance. 7th Annual MVAPICH User Group (MUG) Meeting. Aug. 2019.
 - 滝澤真一朗, 小川宏高, 高野了成. 大規模GPUクラスタにおける深層学習ワークロードの傾向把握. 第170回ハイパフォーマンスコンピューティング研究会. Jul. 2019.
 - 滝澤真一朗. ABCIのストレージサービスの現状と拡張計画. Gfarmワークショップ2019. Feb. 2019.
