@@ -26,6 +26,8 @@
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- 滝澤真一朗, 坂部昌久, 谷村勇輔, 小川宏高. ABCI上でのジョブ実行履歴の分析による深層学習計算の傾向把握. 第176回ハイパフォーマンスコンピューティング研究会. Sep. 2020.
+- Chen Peng, Wahib Mohamed, Shinichiro Takizawa, Takahiro Hirofuchi, Hirotaka Ogawa, Matsuoka Satoshi. Efficient FDK Algorithms on SIMD-accelerated Processors. 第175回ハイパフォーマンスコンピューティング研究会. Jul. 2020.
 - 中田秀基, 滝澤真一朗, 小川宏高. 大規模計算クラスタにおけるユーザ利便性向上. 第174回ハイパフォーマンスコンピューティング研究会. May. 2020.
 - 谷村勇輔, 滝澤真一朗, 小川宏高, 浜西貴宏. ABCIクラウドストレージサービスの構築と評価. 第172回ハイパフォーマンスコンピューティング研究会. Dec. 2019.
 - Shinichiro Takizawa. ABCI's Scheduling Design for Accommodating Various AI Jobs. 8th ADAC Workshop. Oct. 2019.
