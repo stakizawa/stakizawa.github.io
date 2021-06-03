@@ -1,6 +1,7 @@
 # [](#publications)Publications
 
 ## Conference/Workshop Paper (Reviewed)
+- Yusuke Tanimura, Shinichiro Takizawa, Hirotaka Ogawa. Building and Evaluation of Cloud Storage and Datasets Services on AI and HPC Converged Infrastructure. The 9th Workshop on Scalable Cloud Data Management, co-located with 2020 IEEE International Conference on Big Data, Dec. 2020.
 - Shinichiro Takizawa, Ryousei Takano. Effect of an Incentive Implementation for Specifying Accurate Walltime in Job Scheduling. Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia2020), Jan. 2020.
 - Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. iFDK: a scalable framework for instant high-resolution image reconstruction. Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), Nov. 2019.
 - Peng Chen, Mohamed Wahib, Shinichiro Takizawa, Ryousei Takano, Satoshi Matsuoka. A Versatile Software Systolic Execution Model for GPU Memory Bound Kernels. Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), Nov. 2019.
@@ -26,6 +27,8 @@
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- 野村哲弘, 滝澤真一朗, 三浦信一, 遠藤敏夫, 松葉浩也. センサー情報を意識したジョブスケジューリング実現のための標準ジョブ履歴スキーマの提案. March. 2021.
+- 滝澤真一朗, 高野了成, 清水正明, 松葉浩也, 中田秀基, 小川 宏高. クラウドオブジェクトストレージを活用したメタスケジューラ. 第177回ハイパフォーマンスコンピューティング研究会. Dec. 2020.
 - 滝澤真一朗, 坂部昌久, 谷村勇輔, 小川宏高. ABCI上でのジョブ実行履歴の分析による深層学習計算の傾向把握. 第176回ハイパフォーマンスコンピューティング研究会. Sep. 2020.
 - Chen Peng, Wahib Mohamed, Shinichiro Takizawa, Takahiro Hirofuchi, Hirotaka Ogawa, Matsuoka Satoshi. Efficient FDK Algorithms on SIMD-accelerated Processors. 第175回ハイパフォーマンスコンピューティング研究会. Jul. 2020.
 - 中田秀基, 滝澤真一朗, 小川宏高. 大規模計算クラスタにおけるユーザ利便性向上. 第174回ハイパフォーマンスコンピューティング研究会. May. 2020.
