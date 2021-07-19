@@ -5,8 +5,8 @@
   - Shinichiro Takizawa
   - 滝澤 真一朗
 - Affiliation
-  - Artificial Intelligence Research Center, AIST, Japan
-  - 産業技術総合研究所 人工知能研究センター
+  - Digital Architecture Research Center, AIST, Japan
+  - 産業技術総合研究所 デジタルアーキテクチャ研究センター
 - Contact
   - shinichiro.takizawa __at__ aist.go.jp (replace __at__ by @)
 - Social Account
@@ -34,7 +34,8 @@
 
 |Year| |
 |:-|:-|
-|Jul 2019 - Present|Senior Research Scientist, Artificial Intelligence Research Center, AIST, Japan|
+|Apr 2021 - Present|Senior Research Scientist, Digital Architecture Research Center, AIST, Japan|
+|Jul 2019 - Mar 2021|Senior Research Scientist, Artificial Intelligence Research Center, AIST, Japan|
 |May 2017 - Jun 2019|Researcher, RWBC-OIL, AIST, Japan|
 |May 2017 - Mar 2018|Visiting Researcher, RIKEN AICS, Japan|
 |Apr 2013 - Apr 2017|Research Scientist, RIKEN AICS, Japan|
@@ -44,8 +45,11 @@
 
 
 ## [](#activities)Academic Activities
+- xSIG 2021プログラム委員
+- 情報処理学会 会誌編集委員（2021-）
 - 情報処理学会 第30回コンピュータシステム・シンポジウム (ComSys2018）, プログラム委員
 - The 2nd International Industry/University Workshop on Data-center Automation, Analytics, and Control (DAAC2018), Technical Program Committee
+- ACS論文誌 編集委員 (2017-2020)
 - 情報処理学会 第29回コンピュータシステム・シンポジウム (ComSys2017）, プログラム委員
 - IEEE Cluster 2017, Technical Program Committee
 - The 12th International Workshop on OpenMP (IWOMP2016), Local Chair
