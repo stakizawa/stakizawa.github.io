@@ -45,7 +45,9 @@
 
 
 ## [](#activities)Academic Activities
+- xSIG 2022プログラム委員
 - xSIG 2021プログラム委員
+- 電子情報通信学会 英文論文誌D編集委員（2021-）
 - 情報処理学会 会誌編集委員（2021-）
 - 情報処理学会 第30回コンピュータシステム・シンポジウム (ComSys2018）, プログラム委員
 - The 2nd International Industry/University Workshop on Data-center Automation, Analytics, and Control (DAAC2018), Technical Program Committee
