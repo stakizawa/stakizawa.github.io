@@ -29,6 +29,8 @@ on Supercomputing. Jun. 2021.
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- 滝澤真一朗. ABCI 2.0：AI橋渡しクラウドのアップグレード. Japan Lustre User Group (JLUG) 2021. Dec. 2021.
+- 滝澤真一朗, 野村哲弘, 松葉浩也. 深層強化学習を用いたジョブスケジューリングへの不確実なジョブ属性の影響の検証. 第182回ハイパフォーマンスコンピューティング研究会. Dec. 2021.
 - Shinichiro Takizawa, Yusuke Tanimura, Hidemoto Nakada, Ryousei Takano, Hirotaka Ogawa. ABCI 2.0: Advances in Open AI Computing Infrastructure at AIST. IPSJ SIG Technical Reports HPC-180. July. 2021.
 - 野村哲弘, 滝澤真一朗, 三浦信一, 遠藤敏夫, 松葉浩也. センサー情報を意識したジョブスケジューリング実現のための標準ジョブ履歴スキーマの提案. 第178回ハイパフォーマンスコンピューティング研究会. March. 2021.
 - 滝澤真一朗, 高野了成, 清水正明, 松葉浩也, 中田秀基, 小川 宏高. クラウドオブジェクトストレージを活用したメタスケジューラ. 第177回ハイパフォーマンスコンピューティング研究会. Dec. 2020.
