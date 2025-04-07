@@ -36,7 +36,7 @@ on Supercomputing. Jun. 2021.
 -  Ryousei Takano, Shinichiro Takizawa, Yusuke Tanimura, Hidemoto Nakada, Hirotaka Ogawa. ABCI 3.0: Evolution of the leading AI infrastructure in Japan. arXiv. Nov. 2024.
 - Yusuke Tanimura, Naoki Oonishi, Shinichiro Takizawa. Workload Analytics of LLMs Training on ABCI. Proceedings of the IEEE International Conference on Cluster Computing. Poster. Sep. 2024.
 - 大西尚樹, 谷村勇輔, 滝澤真一朗, LLM推論試験環境構築に向けたSwallowを用いた性能評価. xSIG 2024. ポスター. Aug. 2024.
-- 中田秀基, 高宮安仁, 高野了成, 滝澤真一朗, 谷村勇輔, AI橋渡しクラウドにおけるWebUIと量子コンピューティングサービスの導入. 第193回ハイパフォーマンスコンピューティング研究会. Mar. 2024.
+- 中田秀基, 高宮安仁, 高野了成, 滝澤真一朗, 谷村勇輔. AI橋渡しクラウドにおけるWebUIと量子コンピューティングサービスの導入. 第193回ハイパフォーマンスコンピューティング研究会. Mar. 2024.
 - 滝澤真一朗, 谷村勇輔, 大西尚樹. AI橋渡しクラウドにおけるAIモデル開発・共有環境の導入. 第193回ハイパフォーマンスコンピューティング研究会. Mar. 2024.
 - 滝澤真一朗, 清水正明, 中田秀基, 松葉浩也, 高野了成. セキュアなAI/HPCクラウドバースティング実現に向けた検討. 第185回ハイパフォーマンスコンピューティング研究会. Jul. 2022.
 - 滝澤真一朗. ABCI 2.0：AI橋渡しクラウドのアップグレード. Japan Lustre User Group (JLUG) 2021. Dec. 2021.

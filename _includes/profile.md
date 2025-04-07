@@ -5,8 +5,8 @@
   - Shinichiro Takizawa
   - 滝澤 真一朗
 - Affiliation
-  - Digital Architecture Research Center, AIST, Japan
-  - 産業技術総合研究所 デジタルアーキテクチャ研究センター
+  - Global Research and Development Center for Business by Quantum-AI Technology, AIST, Japan
+  - 産業技術総合研究所 量子・AI融合技術ビジネス開発グローバル研究センター
 - Contact
   - shinichiro.takizawa __at__ aist.go.jp (replace __at__ by @)
 - Social Account
