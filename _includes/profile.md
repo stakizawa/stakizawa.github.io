@@ -34,9 +34,11 @@
 
 |Year| |
 |:-|:-|
-|Apr 2021 - Present|Senior Research Scientist, Digital Architecture Research Center, AIST, Japan|
+|July 2023 - Present|Leader, Global Research and Development Center for Business by Quantum-AI Technology (G-QuAT), AIST, Japan|
+|Apr 2022 - Mar 2022|Planning Officer, Dpt. of Information Technology and Human Factors, AIST, Japan|
+|Apr 2021 - Mar 2025|Senior Research Scientist, Digital Architecture Research Center, AIST, Japan|
 |Jul 2019 - Mar 2021|Senior Research Scientist, Artificial Intelligence Research Center, AIST, Japan|
-|May 2017 - Jun 2019|Researcher, RWBC-OIL, AIST, Japan|
+|May 2017 - Jun 2019|Researcher, AIST- Tokyo Tech Real World Big-Data Computation Open Innovation Laboratory (RWBC-OIL), AIST, Japan|
 |May 2017 - Mar 2018|Visiting Researcher, RIKEN AICS, Japan|
 |Apr 2013 - Apr 2017|Research Scientist, RIKEN AICS, Japan|
 |Apr 2010 - Mar 2013|Research Associate, Global Scientific Information and Computing Center, Tokyo Institute of Technology, Japan|
@@ -47,8 +49,8 @@
 ## [](#activities)Academic Activities
 - xSIG 2022プログラム委員
 - xSIG 2021プログラム委員
-- 電子情報通信学会 英文論文誌D編集委員（2021-）
-- 情報処理学会 会誌編集委員（2021-）
+- 電子情報通信学会 英文論文誌D編集委員（2021-2025）
+- 情報処理学会 会誌編集委員（2021-2025）
 - 情報処理学会 第30回コンピュータシステム・シンポジウム (ComSys2018）, プログラム委員
 - The 2nd International Industry/University Workshop on Data-center Automation, Analytics, and Control (DAAC2018), Technical Program Committee
 - ACS論文誌 編集委員 (2017-2020)

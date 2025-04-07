@@ -1,6 +1,7 @@
 # [](#publications)Publications
 
 ## Conference/Workshop Paper (Reviewed)
+- Shinichiro Takizawa, Masaaki Shimizu, Hidemoto Nakada, Hiroya Matsuba, Ryousei Takano. CloudQ: A Secure AI / HPC Cloud Bursting System. IEEE/ACM 9th International Workshop on HPC  User Support Tools (HUST-22). Nov. 2022.
 - Peng Chen, Mohamed Wahib, Xiao Wang, Shinichiro Takizawa, Takahiro Hirofuchi, Hirotaka Ogawa, Satoshi Matsuoka. Performance Portable Back-projection Algorithms on CPUs: Agnostic Data Locality and Vectorization Optimizations. International Conference
 on Supercomputing. Jun. 2021.
 - Yusuke Tanimura, Shinichiro Takizawa, Hirotaka Ogawa. Building and Evaluation of Cloud Storage and Datasets Services on AI and HPC Converged Infrastructure. The 9th Workshop on Scalable Cloud Data Management, co-located with 2020 IEEE International Conference on Big Data, Dec. 2020.
@@ -29,6 +30,14 @@ on Supercomputing. Jun. 2021.
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- 滝澤真一朗, 高野了成, 谷村勇輔. 量子・古典ハイブリッドコンピューティング基盤（ABCI-Q）の概要. 第198回ハイパフォーマンスコンピューティング・第14回量子ソフトウェア合同研究発表会. Mar. 2025.
+- 滝澤真一朗. ABCIでのOpen OnDemand活用事例と今後の展望. PCCC 2nd Open OnDemand Workshop. Jan. 2025.
+- 滝澤真一朗. 進化したAI計算基盤ABCI 3.0とそのファイルシステム. Japan Lustre User Group (JLUG) 2024. Dec. 2024.
+-  Ryousei Takano, Shinichiro Takizawa, Yusuke Tanimura, Hidemoto Nakada, Hirotaka Ogawa. ABCI 3.0: Evolution of the leading AI infrastructure in Japan. arXiv. Nov. 2024.
+- Yusuke Tanimura, Naoki Oonishi, Shinichiro Takizawa. Workload Analytics of LLMs Training on ABCI. Proceedings of the IEEE International Conference on Cluster Computing. Poster. Sep. 2024.
+- 大西尚樹, 谷村勇輔, 滝澤真一朗, LLM推論試験環境構築に向けたSwallowを用いた性能評価. xSIG 2024. ポスター. Aug. 2024.
+- 中田秀基, 高宮安仁, 高野了成, 滝澤真一朗, 谷村勇輔, AI橋渡しクラウドにおけるWebUIと量子コンピューティングサービスの導入. 第193回ハイパフォーマンスコンピューティング研究会. Mar. 2024.
+- 滝澤真一朗, 谷村勇輔, 大西尚樹. AI橋渡しクラウドにおけるAIモデル開発・共有環境の導入. 第193回ハイパフォーマンスコンピューティング研究会. Mar. 2024.
 - 滝澤真一朗, 清水正明, 中田秀基, 松葉浩也, 高野了成. セキュアなAI/HPCクラウドバースティング実現に向けた検討. 第185回ハイパフォーマンスコンピューティング研究会. Jul. 2022.
 - 滝澤真一朗. ABCI 2.0：AI橋渡しクラウドのアップグレード. Japan Lustre User Group (JLUG) 2021. Dec. 2021.
 - 滝澤真一朗, 野村哲弘, 松葉浩也. 深層強化学習を用いたジョブスケジューリングへの不確実なジョブ属性の影響の検証. 第182回ハイパフォーマンスコンピューティング研究会. Dec. 2021.
