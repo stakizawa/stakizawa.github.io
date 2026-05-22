@@ -30,6 +30,7 @@ on Supercomputing. Jun. 2021.
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- Shun Gokita, Norihiro Kakuko, Naoyuki Masumoto, Kosuke Miyaji, Takafumi Miyanaga, Toshio Mori, Ryousei Takano, Shinichiro Takizawa, Satoyuki Tsukano, Masaomi Yamaguchi. A Quantum-HPC Hybrid Computing Infrastructure based on Open-source Quantum Computer Operations Software. ISC 2026 Project Poster. June. 2026.
 - 滝澤真一朗, 高野了成, 谷村勇輔. 量子・古典ハイブリッドコンピューティング基盤（ABCI-Q）の概要. 第198回ハイパフォーマンスコンピューティング・第14回量子ソフトウェア合同研究発表会. Mar. 2025.
 - 滝澤真一朗. ABCIでのOpen OnDemand活用事例と今後の展望. PCCC 2nd Open OnDemand Workshop. Jan. 2025.
 - 滝澤真一朗. 進化したAI計算基盤ABCI 3.0とそのファイルシステム. Japan Lustre User Group (JLUG) 2024. Dec. 2024.
