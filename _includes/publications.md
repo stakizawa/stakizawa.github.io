@@ -30,7 +30,15 @@ on Supercomputing. Jun. 2021.
 - Yuya Machida, Shinichiro Takizawa, Hidemoto Nakada, Satoshi Matsuoka. Intelligent Data Staging with Overlapped Execution of Grid Applications. Future Generation Computer Systems, 2007, Vol 24, Issue 5, pages 425-433.
 
 ## Presentation
+- 高野了成, 桝本尚之, 宮地孝輔, 宮永崇史, 森俊夫, 滝澤真一朗, 束野仁政. ABCI-Qにおける量子・HPCハイブリッド計算基盤の実装事例. 第205回ハイパフォーマンスコンピューティング研究発表会. Aug. 2026.
 - Shun Gokita, Norihiro Kakuko, Naoyuki Masumoto, Kosuke Miyaji, Takafumi Miyanaga, Toshio Mori, Ryousei Takano, Shinichiro Takizawa, Satoyuki Tsukano, Masaomi Yamaguchi. A Quantum-HPC Hybrid Computing Infrastructure based on Open-source Quantum Computer Operations Software. ISC 2026 Project Poster. June. 2026.
+- 滝澤真一朗. 量子・古典コンピューティング基盤: ABCI-Q - ソフトウェアに関する研究開発. Q-STAR 第3回クオンタムシティ交流イベント. Mar. 2026.
+- 滝澤真一朗. ABCI-Q: 量子・古典融合計算基盤. Supercomputing Japan 2026. Feb. 2026.
+- Naoki Oonishi, Yusuke Tanimura, Shinichiro Takizawa, Hidemoto Nakada. Performance Evaluation of LLM Inference with KV Cache Offloading on ABCI. SCA/HPCAsia 2026 Poster, Jan. 2026.
+- Shinichiro Takizawa. The Open OnDemand Use Case in AIST’s Quantum-Classical Hybrid Computing Infrastructure. Supercomputing Asia 2026 Open OnDemand BoF. Jan. 2026.
+- Shinichiro Takizawa. ABCI-Q HPC Data Center Facility - A design leveraging the achievements of ABCI system. Asian HPC infrastructure workshop 2026. Jan. 2026.
+- 滝澤真一朗, 高野了成, 柿崎武. ABCI-Q: 量子・古典ハイブリッドテストベッド. SIP第３期「先進的量子技術基盤の社会課題への応用促進」とBRIDGE量子関連施策連携 公開シンポジウム2025 ポスター. Oct. 2025.
+- 大西尚樹, 谷村勇輔, 滝澤真一朗, 中田秀基. ABCIにおける共用の推論評価試験環境の提供に向けた性能調査と方式検討. 第200回ハイパフォーマンスコンピューティング研究発表会. Aug. 2025.
 - 滝澤真一朗, 高野了成, 谷村勇輔. 量子・古典ハイブリッドコンピューティング基盤（ABCI-Q）の概要. 第198回ハイパフォーマンスコンピューティング・第14回量子ソフトウェア合同研究発表会. Mar. 2025.
 - 滝澤真一朗. ABCIでのOpen OnDemand活用事例と今後の展望. PCCC 2nd Open OnDemand Workshop. Jan. 2025.
 - 滝澤真一朗. 進化したAI計算基盤ABCI 3.0とそのファイルシステム. Japan Lustre User Group (JLUG) 2024. Dec. 2024.
